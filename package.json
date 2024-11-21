@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "bun": "^1.1.36",
+    "i": "^0.3.7",
+    "npm": "^10.9.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-loading-skeleton": "^3.5.0",
+    "swr": "^2.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
