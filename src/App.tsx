@@ -38,6 +38,7 @@ function App() {
 
 
   const handleLoadMore = () => {
+    if(search.length > 0) return;
     setSkip((prevSkip) => prevSkip + limit);
 
   }
