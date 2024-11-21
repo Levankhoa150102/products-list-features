@@ -12,6 +12,7 @@ bun: >= 1.1.0
 # Run the development server:
 
 ```
+cd products-list-features
 bun install
 bun run dev
 ```
